@@ -1,0 +1,22 @@
+|---------------------------------|
+| Tin Can Linux                   |   _____ _           ___            
+|---------------------------------|  /__   (_)_ __     / __\__ _ _ __  
+| A tiny Linux distro made from   |    / /\/ | '_ \   / /  / _` | '_ \ 
+| scraps I found on the internet. |   / /  | | | | | / /__| (_| | | | |
+|---------------------------------|   \/   |_|_| |_| \____/\__,_|_| |_|
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+This is the Tin Can Linux graveyard, the place where packages go to die.
+
+=== Usage
+=========
+
+The packages here are not maintained, may be incomplete, or may have other
+problems. It's recommended that if you want a package that's here, you check
+out the package files before blindly using them.
+
+=== Contributing
+================
+
+If you're interested in a package that's here, you can adopt it and create a
+PR to have it added to the community repo (coming soon).

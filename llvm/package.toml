@@ -1,0 +1,11 @@
+[meta]
+version = "19.1.0"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.0/llvm-19.1.0.src.tar.xz"]
+checksums = []
+
+[deps]
+
+[mkdeps]
+cmake = "*"
+python = "*"

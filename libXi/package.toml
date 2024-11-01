@@ -1,0 +1,13 @@
+[meta]
+version = "1.8.2"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://x.org/releases/individual/lib/libXi-1.8.2.tar.gz"]
+checksums = ["90f34234247ea8631d0c4ede58e842c1dfe3bb5f964e1a80474bd64cfb9f446a"]
+
+[deps]
+libXext = "*"
+libXfixes = "*"
+
+[mkdeps]
+pkgconf = "*"
+xorg-proto = "*"

@@ -1,0 +1,17 @@
+[meta]
+version = "31486f40f8"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://gitlab.freedesktop.org/xorg/driver/xf86-video-intel/-/archive/31486f40f8e8f8923ca0799aea84b58799754564/xf86-video-intel-31486f40f8e8f8923ca0799aea84b58799754564.tar.gz"]
+checksums = ["1d5cffdda1c5ba06b00c01d065ccd2051e5525c0ff02e589798aad464865b4e8"]
+
+[deps]
+libXScrnSaver = "*"
+libXcursor = "*"
+libXinerama = "*"
+libXrandr = "*"
+libXtst = "*"
+xorg-server = "*"
+
+[mkdeps]
+meson = "*"
+pkgconf = "*"

@@ -1,0 +1,11 @@
+[meta]
+version = "1.1.5"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://x.org/releases/individual/lib/libXdmcp-1.1.5.tar.gz"]
+checksums = ["2faf8a078a1715e6f79c51ff51cfa2cbcc6cec6c08d2b35883f1c37f1cbfe0f2"]
+
+[deps]
+
+[mkdeps]
+pkgconf = "*"
+xorg-proto = "*"

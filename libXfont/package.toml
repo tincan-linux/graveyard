@@ -1,0 +1,14 @@
+[meta]
+version = "1.5.4"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://x.org/releases/individual/lib/libXfont-1.5.4.tar.gz"]
+checksums = ["ed40672d69bbbe4bfa5d4d80be713785039ec4b158e1177e9b1db7c8c9cd22b2"]
+
+[deps]
+freetype-harfbuzz = "*"
+libfontenc = "*"
+
+[mkdeps]
+pkgconf = "*"
+xorg-proto = "*"
+xtrans = "*"

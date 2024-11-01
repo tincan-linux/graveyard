@@ -1,0 +1,13 @@
+[meta]
+version = "1.2.4"
+maintainer = "AVS Origami <avs.origami@gmail.com>"
+sources = ["https://x.org/releases/individual/lib/libXScrnSaver-1.2.4.tar.xz"]
+checksums = ["35ea09d2ebb75aa8f0c0094fbb3e31dbe2026b4c62c9a7953ce0d5fe5db5feca"]
+
+[deps]
+libX11 = "*"
+libXext = "*"
+
+[mkdeps]
+pkgconf = "*"
+xorg-proto = "*"
